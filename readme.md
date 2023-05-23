@@ -1,5 +1,7 @@
 <h1 align="center">Funiro - Furniture shop landing</h1>
 
+<h2><a href="https://funiro-two.vercel.app/">Demo</a></h2>
+
 ## Overview
 
 ![screenshot](https://github.com/mondedelotus/Funiro/blob/master/overview.webp)
